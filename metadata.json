@@ -1,0 +1,10 @@
+{
+  "name": "Remix WeatherGPT – AI-Powered AWS Anomaly Detection \u0026 Weather Intelligence Platform",
+  "description": "SIH-level Automatic Weather Station monitoring and intelligence platform with real-time Open-Meteo telemetry, statistical sensor anomaly detection, sensor health scoring, and WeatherGPT conversational AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
